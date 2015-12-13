@@ -1,0 +1,8 @@
+# General Ruby, sorted by first letter.
+/.bundle/
+/doc/*
+/Gemlocal
+/Gemlocal.lock
+/.rspec
+/vendor/bundle/
+/.yardoc/
